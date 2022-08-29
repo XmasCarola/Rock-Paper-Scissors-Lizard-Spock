@@ -55,6 +55,8 @@ int main() {
     }
   } else
     std::cout << "The game ended in a draw\n";
+  
+  return 0;
 }
 
 std::string pick_item(int index, std::vector<std::string> items) {
