@@ -24,7 +24,7 @@ int main() {
   std::cout << "4) 🤏\n";
   std::cout << "5) 🖖\n";
  
-  std::cout << "shoot!\n";
+  std::cout << "shoot!\n\n";
   std::cin >> user;
   std::cout << "\n";
 
