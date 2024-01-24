@@ -33,7 +33,7 @@ int main() {
       action = pick_item(user, actionNext);
       winner = "you";
     }
-    if((user - 2) % 5 == computer % 5) {
+    if((user + 5 - 2) % 5 == computer % 5) {
       action = pick_item(user, actionBeforeLast);
       winner = "you";
     }
@@ -41,7 +41,7 @@ int main() {
       action = pick_item(computer, actionNext);
       winner = "computer";
     }
-    if((computer - 2) % 5 == user % 5) {
+    if((computer + 5 - 2) % 5 == user % 5) {
       action = pick_item(computer, actionBeforeLast);
       winner = "computer";
     }
