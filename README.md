@@ -1,4 +1,4 @@
-#Rock Paper Scissors Lizard Spock
+# Rock Paper Scissors Lizard Spock
 
 Piece of code written in C++ to practice its basic concepts. It is my personal solution to a challenge designed by Codecademy. 
 
