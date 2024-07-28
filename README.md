@@ -1,4 +1,4 @@
-# Rock Paper Scissors Lizard Spock
+# :vulcan_salute: Rock Paper Scissors Lizard Spock
 
 Piece of code written in C++ to practice its basic concepts. It is my personal solution to a challenge designed by Codecademy that requires techies to craft a game based on 'Rock-Paper-Scissors-Lizard-Spock', enabling users to compete against a computer player.
 
